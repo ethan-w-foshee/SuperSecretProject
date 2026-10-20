@@ -30,7 +30,7 @@
           inherit version;
           src = ./backend;
 
-          vendorHash = null;
+          vendorHash = "sha256-n2/gw9dA9h/LRFnkmDSooTcwcNFXh3PGogkRD3DSk7s=";
         };
 
         default = hexattd-backend;
